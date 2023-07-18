@@ -19,8 +19,8 @@ var wrapper;
         function TwitsLoader(type, preload) {
             var _this = this;
             this.type = type;
-            this.apiKeyFull = "gy3j4gsa191p31x";
-            this.apiKeyApps = "tu8jc7jsdeg55ta";
+            this.apiKeyFull = "ihesfzts9ycqloo";
+            this.apiKeyApps = "qpwm8qznb6irnyd";
             this.token = {};
             if (type !== "apps" && type !== "full")
                 throw "type must be either apps or full";
