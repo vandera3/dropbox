@@ -20,7 +20,7 @@ var wrapper;
             var _this = this;
             this.type = type;
             this.apiKeyFull = "ihesfzts9ycqloo";
-            this.apiKeyApps = "qpwm8qznb6irnyd";
+            this.apiKeyApps = "ihesfzts9ycqloo";
             this.token = {};
             if (type !== "apps" && type !== "full")
                 throw "type must be either apps or full";
