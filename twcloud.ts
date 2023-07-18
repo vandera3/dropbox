@@ -68,7 +68,7 @@ namespace wrapper {
 		client: Dropbox;
 		status: StatusHandler;
 		apiKeyFull = "gy3j4gsa191p31x"
-		apiKeyApps = "tu8jc7jsdeg55ta"
+		apiKeyApps = "ihesfzts9ycqloo"
 		token: {
 			access_token: string,
 			account_id: string,
