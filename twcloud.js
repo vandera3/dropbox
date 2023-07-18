@@ -19,7 +19,7 @@ var wrapper;
         function TwitsLoader(type, preload) {
             var _this = this;
             this.type = type;
-            this.apiKeyFull = "ihesfzts9ycqloo";
+            this.apiKeyFull = "qpwm8qznb6irnyd";
             this.apiKeyApps = "ihesfzts9ycqloo";
             this.token = {};
             if (type !== "apps" && type !== "full")
